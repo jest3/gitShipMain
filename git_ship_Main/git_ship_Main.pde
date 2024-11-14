@@ -2,7 +2,7 @@
 
 //crew roster
 String pilot = "Super Awesome Captain Kira";
-String copilot = "";
+String copilot = "Lord Copilot Vai";
 
 //spacecraft controls
 boolean viewscreen = true; //powers up main viewscreen
